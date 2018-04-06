@@ -1,1 +1,3 @@
-Akademinë informacinë sistema
+AkademinÄ— informacinÄ— sistema
+
+1. Å i sistema..
